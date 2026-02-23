@@ -21,4 +21,9 @@ All the code is derived from MoonBit Language Tour (https://tour.moonbitlang.com
   moon run src/cmd/basics/literals_and_types/
 
   // ...
+
+  // 01_basics_test
+  moon test src/cmd/basics/test
+
+  // ...
 ```
