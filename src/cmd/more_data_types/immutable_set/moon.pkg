@@ -1,0 +1,8 @@
+import {
+  "moonbitlang/core/immut/hashset",
+  "moonbitlang/core/immut/sorted_set",
+}
+
+options(
+  "is-main": true,
+)
